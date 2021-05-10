@@ -1,3 +1,13 @@
+---
+title: MapReduce
+date: 2021-05-10 22:47:39
+tags:
+  - mapper
+  - reducer
+category:
+  - Hadoop
+---
+
 ## map-reduce
 
 数据以一条记录为单位，经过 map 方法映射成 key-val，相同的 key 为一组，一组调用一次 reduce 方法，
