@@ -32,5 +32,3 @@ category:
 split > map --- 1:1
 map > reduce --- N:1, N:N,: 1:1, 1:N
 group(key) > partition 1:1, N:1, N:N, 1:N
-
-fdaf
